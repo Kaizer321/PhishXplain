@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+Transcription/
+test_ps.py
+test_ps.wav
+feedback_log.csv
+.DS_Store
