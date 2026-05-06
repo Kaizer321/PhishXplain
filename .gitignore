@@ -5,3 +5,11 @@ test_ps.py
 test_ps.wav
 feedback_log.csv
 .DS_Store
+
+# Sensitive and personal files
+*.pdf
+*.ltx
+.env
+.env.*
+secrets.json
+*.log
